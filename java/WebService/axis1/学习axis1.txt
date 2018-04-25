@@ -1,0 +1,1 @@
+Maven项目中使用Axis1整合Spring配置:http://bnmnba.iteye.com/blog/2316398

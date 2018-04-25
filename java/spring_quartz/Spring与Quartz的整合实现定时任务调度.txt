@@ -1,0 +1,6 @@
+http://kevin19900306.iteye.com/blog/1397744
+
+Spring集成Quartz有2种方法:https://blog.csdn.net/u012316953/article/details/69349813
+
+Spring任务调度<task:scheduled-tasks>【含cron参数详解】
+https://blog.csdn.net/kollyqaq/article/details/51191047
