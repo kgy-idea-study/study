@@ -1,5 +1,13 @@
 网址：http://blog.csdn.net/u013142781/article/details/50816245
 
+
+Java经典设计模式之五大创建型模式
+https://blog.csdn.net/u013142781/article/details/50816245
+Java经典设计模式之七大结构型模式
+https://blog.csdn.net/u013142781/article/details/50821155
+Java经典设计模式之十一种行为型模式
+https://blog.csdn.net/u013142781/article/details/50825301
+
 一、概况
 总体来说设计模式分为三大类：
 
