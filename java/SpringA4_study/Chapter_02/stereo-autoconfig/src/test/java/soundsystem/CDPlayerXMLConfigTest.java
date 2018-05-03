@@ -11,31 +11,28 @@ import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 @RunWith(SpringJUnit4ClassRunner.class)
-@ContextConfiguration(classes=CDPlayerConfig.class)
-public class CDPlayerTest {
+@ContextConfiguration(locations="classpath:META-INF/spring/soundsystem.xml")
+public class CDPlayerXMLConfigTest {
 
   @Rule
   public final StandardOutputStreamLog log = new StandardOutputStreamLog();
 
   @Autowired
   private MediaPlayer player;
-  
+
   @Autowired
   private CompactDisc cd;
-  
+
   @Test
   public void cdShouldNotBeNull() {
     assertNotNull(cd);
   }
-
+  
   @Test
   public void play() {
     player.play();
-    //System.out.println(log.getLog());
-    String logs = log.getLog();
-    System.out.println(logs.equals("Playing Sgt. Pepper's Lonely Hearts Club Band by The Beatles"));
     assertEquals(
-        "Playing Sgt. Pepper's Lonely Hearts Club Band by The Beatles\n",
+        "Playing Sgt. Pepper's Lonely Hearts Club Band by The Beatles\n", 
         log.getLog());
   }
 
