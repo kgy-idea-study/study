@@ -1,5 +1,4 @@
-学习java
-==========
+#学习java
 
 #[java23种设计模式](https://github.com/kgy-idea-study/study/tree/master/java/DesignPatterns)  
 
