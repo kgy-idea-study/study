@@ -1,17 +1,17 @@
 学习java
 ==========
 
-#[java23种设计模式](https://github.com/kgy-idea-study/study/tree/master/java/DesignPatterns)
+#[java23种设计模式](https://github.com/kgy-idea-study/study/tree/master/java/DesignPatterns)  
 
-#WebService
+#WebService  
 
-#javaweb学习
+#javaweb学习  
 
-#spring定时任务
+#spring定时任务  
 
-#spring实战源码
+#spring实战源码  
 
-#spring实战源码学习
+#spring实战源码学习  
 ## 第1章 Spring之旅
 
 ## 第2章 装配Bean
