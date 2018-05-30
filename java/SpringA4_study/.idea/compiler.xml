@@ -8,12 +8,16 @@
         <outputRelativeToContentRoot value="true" />
         <module name="stereo-autoconfig" />
         <module name="stereo-javaconfig" />
+        <module name="stereo-mixedconfig" />
+        <module name="stereo-xmlconfig" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
-      <module name="Chapter_01" target="1.8" />
-      <module name="stereo-autoconfig" target="1.8" />
-      <module name="stereo-javaconfig" target="1.8" />
+      <module name="Chapter_01" target="1.5" />
+      <module name="stereo-autoconfig" target="1.5" />
+      <module name="stereo-javaconfig" target="1.5" />
+      <module name="stereo-mixedconfig" target="1.5" />
+      <module name="stereo-xmlconfig" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

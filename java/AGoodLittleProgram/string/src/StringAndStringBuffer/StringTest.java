@@ -9,5 +9,10 @@ public class StringTest {
         System.out.println(s1 == s3);
         System.out.println(s1.intern());
         System.out.println(s1 == s1.intern());
+
+        int i=0;
+        System.out.println(i++);
+        System.out.println(i);
+        System.out.println(++i);
     }
 }

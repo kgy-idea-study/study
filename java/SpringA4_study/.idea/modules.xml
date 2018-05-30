@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/Chapter_01/Chapter_01.iml" filepath="$PROJECT_DIR$/Chapter_01/Chapter_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter_02/stereo-autoconfig/stereo-autoconfig.iml" filepath="$PROJECT_DIR$/Chapter_02/stereo-autoconfig/stereo-autoconfig.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter_02/stereo-javaconfig/stereo-javaconfig.iml" filepath="$PROJECT_DIR$/Chapter_02/stereo-javaconfig/stereo-javaconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_02/stereo-mixedconfig/stereo-mixedconfig.iml" filepath="$PROJECT_DIR$/Chapter_02/stereo-mixedconfig/stereo-mixedconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_02/stereo-xmlconfig/stereo-xmlconfig.iml" filepath="$PROJECT_DIR$/Chapter_02/stereo-xmlconfig/stereo-xmlconfig.iml" />
     </modules>
   </component>
 </project>
