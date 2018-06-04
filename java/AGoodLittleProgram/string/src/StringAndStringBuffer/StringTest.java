@@ -1,5 +1,7 @@
 package StringAndStringBuffer;
 
+import java.util.Date;
+
 public class StringTest {
     public static void main(String[] args) {
         String s1 = "Programming";
@@ -14,5 +16,13 @@ public class StringTest {
         System.out.println(i++);
         System.out.println(i);
         System.out.println(++i);
+        System.out.println("s1的值是：---"+ s1 + "，当前方法=StringTest.main()");
+        
+        //10.fori
+        for (int i1 = 0; i1 < 10; i1++) {
+            System.out.println("i1的值是：---"+ i1 + "，当前方法=StringTest.main()");
+        }
+
+        System.out.println(new Date());
     }
 }
