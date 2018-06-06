@@ -15,3 +15,9 @@ https://blog.csdn.net/catoop/article/details/50501688
 
 5.Spring Boot 拦截器
 https://blog.csdn.net/catoop/article/details/50501696
+
+6.Spring Boot 静态资源处理
+https://blog.csdn.net/catoop/article/details/50501706
+
+7.SpringBoot通过配置devtools实现热部署
+https://jingyan.baidu.com/article/870c6fc367b4d7b03fe4beba.html
