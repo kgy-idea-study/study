@@ -8,6 +8,8 @@
         <option value="$PROJECT_DIR$/Chapter_02/stereo-javaconfig/pom.xml" />
         <option value="$PROJECT_DIR$/Chapter_02/stereo-mixedconfig/pom.xml" />
         <option value="$PROJECT_DIR$/Chapter_02/stereo-xmlconfig/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter_03/profiles/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter_03/conditional/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

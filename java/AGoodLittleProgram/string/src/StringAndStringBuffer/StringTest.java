@@ -24,5 +24,13 @@ public class StringTest {
         }
 
         System.out.println(new Date());
+
+        System.out.println(1 / 2 * 9);
+        System.out.println(1/2);
+        System.out.println((double) 1 / 2);
+    }
+
+    public static double a(byte x, double y){
+        return (short)x/y*2;
     }
 }

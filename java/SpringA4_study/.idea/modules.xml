@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Chapter_01/Chapter_01.iml" filepath="$PROJECT_DIR$/Chapter_01/Chapter_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_03/conditional/conditional.iml" filepath="$PROJECT_DIR$/Chapter_03/conditional/conditional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_03/profiles/profiles.iml" filepath="$PROJECT_DIR$/Chapter_03/profiles/profiles.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter_02/stereo-autoconfig/stereo-autoconfig.iml" filepath="$PROJECT_DIR$/Chapter_02/stereo-autoconfig/stereo-autoconfig.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter_02/stereo-javaconfig/stereo-javaconfig.iml" filepath="$PROJECT_DIR$/Chapter_02/stereo-javaconfig/stereo-javaconfig.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter_02/stereo-mixedconfig/stereo-mixedconfig.iml" filepath="$PROJECT_DIR$/Chapter_02/stereo-mixedconfig/stereo-mixedconfig.iml" />
