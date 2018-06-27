@@ -7,7 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="conditional" />
+        <module name="externals" />
         <module name="profiles" />
+        <module name="scopedbeans" />
         <module name="stereo-autoconfig" />
         <module name="stereo-javaconfig" />
         <module name="stereo-mixedconfig" />
@@ -17,7 +19,9 @@
     <bytecodeTargetLevel target="1.8">
       <module name="Chapter_01" target="1.5" />
       <module name="conditional" target="1.5" />
+      <module name="externals" target="1.5" />
       <module name="profiles" target="6" />
+      <module name="scopedbeans" target="1.5" />
       <module name="stereo-autoconfig" target="1.5" />
       <module name="stereo-javaconfig" target="1.5" />
       <module name="stereo-mixedconfig" target="1.5" />
