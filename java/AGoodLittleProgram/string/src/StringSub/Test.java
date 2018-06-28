@@ -86,5 +86,7 @@ public class Test {
         System.out.println(getResult(value,"7"));
         System.out.println(getResult(value,"8"));
         System.out.println(getResult(value,"9"));
+
+        System.out.println("abcdefg".substring(3,0));
     }
 }
