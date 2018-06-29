@@ -3,9 +3,9 @@ package com.designPattern.com.imooc.proxy.fangfa3;
 import java.util.Random;
 
 /**
- * @Author : Admin
- * @Description :
- * @Date : 2018/6/28 17:08
+ * @author admin
+ * @see Moveable
+ * @date 2018/6/28 17:08
  */
 public class Car implements Moveable{
     @Override
