@@ -21,6 +21,7 @@ public class Ungz {
             extractFile(Zin, outdir, tempFile.getName().substring(0, tempFile.getName().lastIndexOf(".")));
             fileInputStream.close();*/
 
+            //在文件第一行加一行
             insertStringInFile( new File("e:\\1.txt"),1,"hhh");
 
         } catch (Exception e) {
@@ -75,7 +76,7 @@ public class Ungz {
 
     }
 
-
+    //在文件第一行加一行
     public static void insertStringInFile(File inFile, int lineno,
                                           String lineToBeInserted) throws Exception {
         // 临时文件
