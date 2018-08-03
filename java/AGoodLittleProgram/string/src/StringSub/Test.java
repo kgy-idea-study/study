@@ -57,6 +57,10 @@ public class Test {
                 result = tempArr == null ? "" : tempArr[5];
             }else if("9".equals(type)) {
                 result = tempArr == null ? value : tempArr[6];
+            }else if("10".equals(type)) {
+                if(value.indexOf(":") > 0) {
+                    result = value.split(":")[0];
+                }
             }
         } catch (Exception e) {
             e.printStackTrace();
@@ -81,7 +85,8 @@ public class Test {
         System.out.println(getResult(value,"7"));
         System.out.println(getResult(value,"8"));
         System.out.println(getResult(value,"9"));
+        System.out.println(getResult(value,"10"));
 
-        System.out.println("abcdefg".substring(3,0));
+        //System.out.println("abcdefg".substring(3,0));
     }
 }
