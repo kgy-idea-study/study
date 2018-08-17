@@ -30,3 +30,10 @@ print(x, y)
 r = move(100, 100, 60, math.pi / 6)
 print(r)
 
+def square(x):
+	'Calculates the square of the number x.'
+	return x * x
+
+print(square.__doc__)
+
+help(square)
