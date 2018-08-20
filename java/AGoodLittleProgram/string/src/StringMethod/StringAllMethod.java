@@ -6,7 +6,8 @@ package StringMethod;
  */
 public class StringAllMethod {
     public static void main(String[] args) {
-        String s = "abcdefghigk呵呵";
+        //String s = "abcdefghigk呵呵";
+        String s = "sss呵呵";
         System.out.println(s.isEmpty());
         System.out.println(s.length());
         System.out.println(s.charAt(1));
