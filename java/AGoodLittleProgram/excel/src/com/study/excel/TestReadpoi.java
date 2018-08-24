@@ -8,10 +8,10 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStream;
-import java.util.ArrayList;
-import java.util.LinkedHashMap;
-import java.util.List;
-import java.util.Map;
+import java.text.DateFormat;
+import java.text.DecimalFormat;
+import java.text.SimpleDateFormat;
+import java.util.*;
 
 /**
  * @author kouguangyuan
@@ -26,7 +26,7 @@ public class TestReadpoi {
         //List<Map<String, String>> list = null;
         List<List> list = null;
         String cellData = null;
-        String filePath = "\\test.xlsx";
+        String filePath = "e:\\test.xlsx";
         //String columns[] = {"name", "age", "score"};
         wb = readExcel(filePath);
         if (wb != null) {
@@ -41,12 +41,12 @@ public class TestReadpoi {
             //获取最大列数
             int colnum = row.getPhysicalNumberOfCells();
             //int colnum = 3;
-            for (int i = 0; i < rownum; i++) {
+            for (int i = 6; i < rownum; i++) {
                 Map<String, String> map = new LinkedHashMap<String, String>();
-                List<String> listRow= new ArrayList<String>();
+                List<String> listRow = new ArrayList<String>();
                 row = sheet.getRow(i);
                 if (row != null) {
-                    for (int j = 0; j < colnum; j++) {
+                    for (int j = 1; j < colnum; j++) {
                         cellData = (String) getCellFormatValue(row.getCell(j));
                         /*map.put(columns[j], cellData);*/
                         listRow.add(cellData);
@@ -55,7 +55,7 @@ public class TestReadpoi {
                     break;
                 }
                 //list.add(map);
-                for (List li : list){
+                for (List li : list) {
                     System.out.println(li);
                 }
                 list.add(listRow);
@@ -103,7 +103,19 @@ public class TestReadpoi {
             //判断cell类型
             switch (cell.getCellType()) {
                 case Cell.CELL_TYPE_NUMERIC: {
-                    cellValue = String.valueOf(cell.getNumericCellValue());
+                    //判断是否为日期类型
+                    if (DateUtil.isCellDateFormatted(cell)) {
+                        //用于转化为日期格式
+                        Date d = cell.getDateCellValue();
+                        DateFormat formater = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+                        cellValue = formater.format(d);
+                    } else {
+                        DecimalFormat dfs = new DecimalFormat("0");
+
+                        cellValue = dfs.format(cell.getNumericCellValue());
+
+                        //cellValue = String.valueOf(cell.getNumericCellValue());
+                    }
                     break;
                 }
                 case Cell.CELL_TYPE_FORMULA: {
