@@ -12,5 +12,6 @@ public class StringAllMethod {
         System.out.println(s.length());
         System.out.println(s.charAt(1));
         System.out.println(s.codePointAt(1));
+
     }
 }
