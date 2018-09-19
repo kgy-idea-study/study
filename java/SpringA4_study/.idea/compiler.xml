@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="aop" />
+        <module name="conditional" />
+        <module name="externals" />
+        <module name="profiles" />
+        <module name="scopedbeans" />
+        <module name="Spittr" />
+        <module name="stereo-autoconfig" />
+        <module name="stereo-javaconfig" />
+        <module name="stereo-mixedconfig" />
+        <module name="stereo-xmlconfig" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="aop" target="1.5" />
+      <module name="Chapter_01" target="1.5" />
+      <module name="conditional" target="1.5" />
+      <module name="externals" target="1.5" />
+      <module name="profiles" target="6" />
+      <module name="scopedbeans" target="1.5" />
+      <module name="Spittr" target="1.5" />
+      <module name="stereo-autoconfig" target="1.5" />
+      <module name="stereo-javaconfig" target="1.5" />
+      <module name="stereo-mixedconfig" target="1.5" />
+      <module name="stereo-xmlconfig" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="DEPRECATION" value="false" />
+  </component>
+</project>
