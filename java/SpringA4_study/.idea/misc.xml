@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Chapter_01/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter_02/stereo-autoconfig/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter_02/stereo-javaconfig/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter_02/stereo-mixedconfig/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter_02/stereo-xmlconfig/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter_03/profiles/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter_03/conditional/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter_03/scopedbeans/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter_03/externals/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter_04/aop/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter_05/Spittr/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/Chapter_02/test/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
