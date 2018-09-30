@@ -24,5 +24,8 @@ public class Test {
         mapBianLi.method2(map);
         mapBianLi.method3(map);
         mapBianLi.method4(map);
+
+        String a = "a";
+
     }
 }
