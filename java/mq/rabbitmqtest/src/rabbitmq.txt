@@ -1,0 +1,10 @@
+rabbitMQ第一篇：rabbitMQ的安装和配置
+https://www.cnblogs.com/LipeiNet/p/5973061.html
+rabbitMQ第二篇：java简单的实现RabbitMQ
+https://www.cnblogs.com/LipeiNet/p/5977028.html
+rabbitMQ第三篇：采用不同的交换机规则
+https://www.cnblogs.com/LipeiNet/p/5978276.html
+rabbitMQ第四篇：远程调用
+https://www.cnblogs.com/LipeiNet/p/5980802.html
+rabbitMQ第五篇：Spring集成RabbitMQ
+https://www.cnblogs.com/LipeiNet/p/6079427.html

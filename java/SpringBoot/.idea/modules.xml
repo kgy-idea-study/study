@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/sb-filterandlistener/sb-filterandlistener.iml" filepath="$PROJECT_DIR$/sb-filterandlistener/sb-filterandlistener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-axis/springboot-axis.iml" filepath="$PROJECT_DIR$/springboot-axis/springboot-axis.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-controller/springboot-controller.iml" filepath="$PROJECT_DIR$/springboot-controller/springboot-controller.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-hello/springboot-hello.iml" filepath="$PROJECT_DIR$/springboot-hello/springboot-hello.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-servlet/springboot-servlet.iml" filepath="$PROJECT_DIR$/springboot-servlet/springboot-servlet.iml" />

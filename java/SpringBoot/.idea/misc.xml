@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/springboot-controller/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-servlet/pom.xml" />
         <option value="$PROJECT_DIR$/sb-filterandlistener/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-axis/pom.xml" />
       </list>
     </option>
   </component>
