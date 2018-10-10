@@ -20,6 +20,6 @@ public class SpringbootControllerApplication {
     public static void main(String[] args) {
         SpringApplication.run(SpringbootControllerApplication.class, args);
         logTest();
-    }
+}
 
 }
