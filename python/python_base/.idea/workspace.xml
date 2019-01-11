@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="063cedb2-bf6f-4922-9311-ae05db6ee66c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project/lianxi/lianxi/test.db" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -32,8 +30,8 @@
     <SUITE FILE_PATH="coverage/python_base$dictTest.coverage" NAME="dictTest Coverage Results" MODIFIED="1533799240169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_base/DataType" />
     <SUITE FILE_PATH="coverage/python_base$.coverage" NAME="继承多态 Coverage Results" MODIFIED="1547018808835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面向对象编程" />
     <SUITE FILE_PATH="coverage/python_base$reTest.coverage" NAME="reTest Coverage Results" MODIFIED="1536626988754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/正则" />
-    <SUITE FILE_PATH="coverage/python_base$helloworld.coverage" NAME="helloworld Coverage Results" MODIFIED="1532656471875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/helloWorld" />
     <SUITE FILE_PATH="coverage/python_base$TestFile.coverage" NAME="TestFile Coverage Results" MODIFIED="1536220336019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IO编程" />
+    <SUITE FILE_PATH="coverage/python_base$helloworld.coverage" NAME="helloworld Coverage Results" MODIFIED="1547181993887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/helloWorld" />
     <SUITE FILE_PATH="coverage/python_base$Test1.coverage" NAME="Test1 Coverage Results" MODIFIED="1535595713937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/异常" />
   </component>
   <component name="DatabaseView">
@@ -52,20 +50,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/进程和线程/进程.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+            <state relative-caret-position="420">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/函数/定义函数.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/helloWorld/helloworld.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+            <state relative-caret-position="683">
+              <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
             </state>
           </provider>
         </entry>
@@ -215,6 +213,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -256,8 +256,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -288,7 +286,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.helloworld">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -302,6 +300,7 @@
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -395,6 +394,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="helloworld" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_base" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/helloWorld" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/helloWorld/helloworld.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="simpleEditor" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_base" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -452,9 +473,11 @@
       <item itemvalue="Python.simpleEditor" />
       <item itemvalue="Python.进程" />
       <item itemvalue="Python.classTest" />
+      <item itemvalue="Python.helloworld" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.helloworld" />
         <item itemvalue="Python.classTest" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.进程" />
@@ -503,17 +526,19 @@
       <workItem from="1546930090284" duration="2438000" />
       <workItem from="1547018287173" duration="7479000" />
       <workItem from="1547080752728" duration="3568000" />
+      <workItem from="1547167558860" duration="1787000" />
+      <workItem from="1547172248883" duration="2510000" />
+      <workItem from="1547176473599" duration="6745000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111000000" />
+    <option name="totallyTimeSpent" value="122042000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1748401" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17963752" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -525,19 +550,19 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4978678" weight="0.29067245" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.42105263" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49840087" weight="0.4208243" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" weight="0.34918034" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.329718" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5021322" side_tool="true" weight="0.29067245" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5021322" side_tool="true" weight="0.29035753" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.329718" />
       <window_info anchor="bottom" id="Inspection Results" order="12" weight="0.3295082" />
       <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
-      <window_info anchor="bottom" id="JRebel Console" order="15" sideWeight="0.5021322" side_tool="true" weight="0.29067245" />
+      <window_info anchor="bottom" id="JRebel Console" order="15" sideWeight="0.50159913" side_tool="true" weight="0.4208243" />
       <window_info anchor="bottom" id="JRebel Executor" order="16" />
       <window_info anchor="bottom" id="Tail" order="17" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -805,13 +830,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/helloWorld/helloworld.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/-1460986792/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="199">
@@ -819,17 +837,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/进程和线程/进程.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/函数/定义函数.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/进程和线程/进程.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -886,6 +904,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helloWorld/helloworld.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="683">
+          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
         </state>
       </provider>
     </entry>
