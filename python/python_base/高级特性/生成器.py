@@ -42,3 +42,32 @@ def flatten(nested):
 nested = [[1, 2], [3, 4], [5]]
 for num in flatten(nested):
 	print(num)
+
+def flatten1(nested):
+	try:
+		#不迭代类似于字符串的对象
+		try: nested + ''
+		except TypeError: pass
+		else: raise TypeError
+		for sublist in nested:
+			for element in flatten1(sublist):
+				yield element
+	except TypeError:
+		print(33333)
+		print(nested)
+		yield nested
+
+print(list(flatten1(['foo', ['bar', ['baz']]])))
+
+def repeater(value):
+	while True:
+		new = (yield value)
+		if new is not None :
+			value = new
+
+r = repeater(42)
+print(next(r))
+print(next(r))
+
+r.send("Hello, world!")
+print(next(r))

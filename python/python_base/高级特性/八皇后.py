@@ -27,4 +27,6 @@ def queens(num=8, state=()):
 list(queens(5))
 import random
 
+a = list(queens(8))
+
 prettyprint(random.choice(list(queens(8))))
