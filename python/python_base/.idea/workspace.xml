@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="063cedb2-bf6f-4922-9311-ae05db6ee66c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../project/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project/project1/com/project1/simple_markup.py" beforeDir="false" afterPath="$PROJECT_DIR$/../project/project1/com/project1/simple_markup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project/project1/com/project1_zhengshi/markup.py" beforeDir="false" afterPath="$PROJECT_DIR$/../project/project1/com/project1_zhengshi/markup.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/正则/reTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/正则/reTest.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -82,8 +80,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/learnpython3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="950" column="33" lean-forward="true" selection-start-line="950" selection-start-column="33" selection-end-line="950" selection-end-column="33" />
+            <state relative-caret-position="693">
+              <caret line="908" column="50" lean-forward="true" selection-start-line="908" selection-start-column="50" selection-end-line="908" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -211,8 +209,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1240" />
-    <option name="y" value="142" />
+    <option name="x" value="1194" />
+    <option name="y" value="152" />
     <option name="width" value="1346" />
     <option name="height" value="780" />
   </component>
@@ -223,7 +221,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -245,6 +242,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -260,7 +258,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="background.image.plus" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -595,16 +593,18 @@
       <workItem from="1547772333608" duration="17786000" />
       <workItem from="1548032249057" duration="9933000" />
       <workItem from="1548142704923" duration="7451000" />
+      <workItem from="1548204178608" duration="2589000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="176855000" />
+    <option name="totallyTimeSpent" value="179444000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1296" height="1000" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49884528" visible="true" weight="0.21601942" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49884528" visible="true" weight="0.21925566" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -982,6 +982,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/正则/reTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/高级特性/迭代器.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="945">
@@ -1023,17 +1030,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/正则/reTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/learnpython3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="950" column="33" lean-forward="true" selection-start-line="950" selection-start-column="33" selection-end-line="950" selection-end-column="33" />
+        <state relative-caret-position="693">
+          <caret line="908" column="50" lean-forward="true" selection-start-line="908" selection-start-column="50" selection-end-line="908" selection-end-column="50" />
         </state>
       </provider>
     </entry>
