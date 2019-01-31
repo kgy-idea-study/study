@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="253423e9-97b9-4747-bbd6-9e8e5c0770ea" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_base/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python_base/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,6 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/project$test.coverage" NAME="test Coverage Results" MODIFIED="1548839727082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_spider/xpath" />
     <SUITE FILE_PATH="coverage/project$cookie.coverage" NAME="cookie Coverage Results" MODIFIED="1548213184283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_spider/urllib" />
     <SUITE FILE_PATH="coverage/project$urllib3test.coverage" NAME="urllib3test Coverage Results" MODIFIED="1548228076254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_spider/urllib3study" />
     <SUITE FILE_PATH="coverage/project$urllibTest.coverage" NAME="urllibTest Coverage Results" MODIFIED="1548211336112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_spider/urllib" />
@@ -20,8 +19,9 @@
     <SUITE FILE_PATH="coverage/project$simple_markup.coverage" NAME="simple_markup Coverage Results" MODIFIED="1548064598161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project1/com/project1" />
     <SUITE FILE_PATH="coverage/project$markup.coverage" NAME="markup Coverage Results" MODIFIED="1548124459340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project1/com/project1_zhengshi" />
     <SUITE FILE_PATH="coverage/project$lianxi1.coverage" NAME="lianxi1 Coverage Results" MODIFIED="1547105678388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lianxi/lianxi" />
-    <SUITE FILE_PATH="coverage/project$requestsTest.coverage" NAME="requestsTest Coverage Results" MODIFIED="1548233422367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_spider/requestsStudy" />
+    <SUITE FILE_PATH="coverage/project$requestsTest.coverage" NAME="requestsTest Coverage Results" MODIFIED="1548813227966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_spider/requestsStudy" />
     <SUITE FILE_PATH="coverage/project$urllibparse.coverage" NAME="urllibparse Coverage Results" MODIFIED="1548218122254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_spider/urllib" />
+    <SUITE FILE_PATH="coverage/project$xpathTest.coverage" NAME="xpathTest Coverage Results" MODIFIED="1548913362431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_spider/xpath" />
   </component>
   <component name="DatabaseLocalColorSettings">
     <colors>
@@ -73,31 +73,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project1/com/project1_zhengshi/markup.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="861">
-              <caret line="44" selection-start-line="44" selection-end-line="44" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-                <marker date="1548124451761" expanded="true" signature="387:396" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project1/com/project1_zhengshi/rules.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-              <folding>
-                <marker date="1536628469725" expanded="true" signature="11:16" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web_spider/urllib/urllibTest.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="336">
@@ -139,11 +114,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web_spider/requestsStudy/requestsTest.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web_spider/xpath/xpathTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="623">
+              <caret line="36" column="42" selection-start-line="36" selection-start-column="42" selection-end-line="36" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -216,6 +200,8 @@
         <option value="$PROJECT_DIR$/web_spider/urllib3/urllib3test.py" />
         <option value="$PROJECT_DIR$/web_spider/urllib3study/urllib3test.py" />
         <option value="$PROJECT_DIR$/web_spider/requestsStudy/requestsTest.py" />
+        <option value="$PROJECT_DIR$/web_spider/xpath/test.py" />
+        <option value="$PROJECT_DIR$/web_spider/xpath/xpathTest.py" />
       </list>
     </option>
   </component>
@@ -246,8 +232,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -272,6 +258,11 @@
               <item name="project" type="b2602c69:ProjectViewProjectNode" />
               <item name="web_spider" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web_spider" type="462c0819:PsiDirectoryNode" />
+              <item name="xpath" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -282,7 +273,7 @@
     <property name="DatabaseDriversLRU" value="oracle" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548236932084" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548913993173" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="1.6" />
     <property name="jdk.selected.PYTHON_MODULE" value="Python 3.6" />
@@ -311,7 +302,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.requestsTest">
+  <component name="RunManager" selected="Python.xpathTest">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -331,50 +322,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cookie" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="web_spider" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web_spider/urllib" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web_spider/urllib/cookie.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="proxy" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="web_spider" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web_spider/urllib" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web_spider/urllib/proxy.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="requestsTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="web_spider" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -389,6 +336,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web_spider/requestsStudy/requestsTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="web_spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web_spider/xpath" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web_spider/xpath/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -433,6 +402,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web_spider/urllib/urllibparse.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="xpathTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="web_spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web_spider/xpath" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web_spider/xpath/xpathTest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -522,11 +513,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.xpathTest" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.requestsTest" />
         <item itemvalue="Python.urllib3test" />
         <item itemvalue="Python.urllibparse" />
-        <item itemvalue="Python.proxy" />
-        <item itemvalue="Python.cookie" />
       </list>
     </recent_temporary>
   </component>
@@ -552,16 +543,20 @@
       <workItem from="1548206021648" duration="11272000" />
       <workItem from="1548227409622" duration="1131000" />
       <workItem from="1548228686363" duration="7123000" />
+      <workItem from="1548813188097" duration="754000" />
+      <workItem from="1548813961528" duration="5663000" />
+      <workItem from="1548896886855" duration="6577000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65669000" />
+    <option name="totallyTimeSpent" value="78663000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1296" height="1000" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31553397" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3317152" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -597,7 +592,7 @@
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="SciView" order="8" weight="0.32995737" />
-      <window_info anchor="right" id="Database" order="9" weight="0.22547974" />
+      <window_info anchor="right" id="Database" order="9" weight="0.2249191" />
       <window_info anchor="right" id="Maven" order="10" weight="0.32995737" />
       <window_info anchor="right" id="Key Promoter X" order="11" weight="0.32928804" />
     </layout>
@@ -727,30 +722,9 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e06f6b32-c3e3-449a-afbc-42435b5fdd3f/console_1.sql">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="das://1e86a049-bc62-48a8-ab4a-48b5c3b64b70/schema/SCOTT/table/BONUS">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-          <column-attributes>
-            <column name="ROWID" enabled="false" />
-          </column-attributes>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://1e86a049-bc62-48a8-ab4a-48b5c3b64b70/schema/SCOTT/table/DEPT">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://1e86a049-bc62-48a8-ab4a-48b5c3b64b70/schema/SCOTT/sequence/seq_test">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="das://1e86a049-bc62-48a8-ab4a-48b5c3b64b70/schema/SCOTT/table/BONUS" />
+    <entry file="das://1e86a049-bc62-48a8-ab4a-48b5c3b64b70/schema/SCOTT/table/DEPT" />
+    <entry file="das://1e86a049-bc62-48a8-ab4a-48b5c3b64b70/schema/SCOTT/sequence/seq_test" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/1e86a049-bc62-48a8-ab4a-48b5c3b64b70/console_1.sql" />
     <entry file="file://$PROJECT_DIR$/lianxi/lianxi.iml">
       <provider selected="true" editor-type-id="text-editor" />
@@ -838,6 +812,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/web_spider/xpath/test.py" />
     <entry file="file://$PROJECT_DIR$/web_spider/urllib/urllibTest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -872,6 +847,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/web_spider/requestsStudy/requestsTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web_spider/urllib/proxy.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -892,10 +874,10 @@
     <entry file="file://$PROJECT_DIR$/project1/com/project1/test_output.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/web_spider/requestsStudy/requestsTest.py">
+    <entry file="file://$PROJECT_DIR$/web_spider/xpath/xpathTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="623">
+          <caret line="36" column="42" selection-start-line="36" selection-start-column="42" selection-end-line="36" selection-end-column="42" />
         </state>
       </provider>
     </entry>
