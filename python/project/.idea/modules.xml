@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/awesome-python3-webapp/awesome-python3-webapp.iml" filepath="$PROJECT_DIR$/awesome-python3-webapp/awesome-python3-webapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/irmsReport/irmsReport.iml" filepath="$PROJECT_DIR$/irmsReport/irmsReport.iml" />
       <module fileurl="file://$PROJECT_DIR$/lianxi/lianxi.iml" filepath="$PROJECT_DIR$/lianxi/lianxi.iml" />
       <module fileurl="file://$PROJECT_DIR$/project1/project1.iml" filepath="$PROJECT_DIR$/project1/project1.iml" />
       <module fileurl="file://$PROJECT_DIR$/web_spider/web_spider.iml" filepath="$PROJECT_DIR$/web_spider/web_spider.iml" />

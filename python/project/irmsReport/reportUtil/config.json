@@ -1,0 +1,17 @@
+{
+  "name": "d_day_eomscf",
+  "Description": "重复投诉率与工单重派率",
+  "sql": "111",
+  "COLUMNS": [
+    {
+      "id": "1",
+      "name": "1",
+      "Description": "1"
+    },
+    {
+      "id": "2",
+      "name": "2",
+      "Description": "2"
+    }
+  ]
+}

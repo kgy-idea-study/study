@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CONFIG> 
+    <MODULES>
+    <MODULE id="投诉、装机及时率" RefreshTime="0">
+    </MODULE> 
+  </MODULES>
+
+    <!-- 指标集配置处 -->
+  <DATASETS/>
+  
+  
+  <TITLE name="投诉、装机及时率"/>
+    <!-- 查询界面模块 -->
+    <CONDITION>
+   	<TBARBUTTONS>
+       	<BUTTON name="特殊颜色设置" hidden="true"/><BUTTON name="图形展现设置" hidden="true"/><BUTTON name="设置到个人工作台" hidden="true"/><BUTTON name="基本信息设置" hidden="true"/>
+    </TBARBUTTONS>
+    <CONTROLS cols="3">
+      	<EXTDATE name="time2" Description="统计时间" columnName="统计时间" initValue="lastDay" dateType="time"  />
+    </CONTROLS>
+  </CONDITION> 
+  <REPORT> 
+    <CONTROLS> 
+	  <GRID name="d_day_ts_zj" Description="投诉、装机及时率" module_id="投诉、装机及时率"
+            itemList="">
+      </GRID>
+    </CONTROLS>
+  </REPORT> 
+</CONFIG>
