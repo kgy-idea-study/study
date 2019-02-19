@@ -11,18 +11,20 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter
 import org.springframework.web.servlet.view.InternalResourceViewResolver;
 
 @Configuration
-@EnableWebMvc
-@ComponentScan("spittr.web")
+@EnableWebMvc//启用Spring Mvc
+@ComponentScan("spittr.web") //启用组件扫描
 public class WebConfig extends WebMvcConfigurerAdapter {
 
   @Bean
   public ViewResolver viewResolver() {
+    //配置JSP视图解析器
     InternalResourceViewResolver resolver = new InternalResourceViewResolver();
     resolver.setPrefix("/WEB-INF/views/");
     resolver.setSuffix(".jsp");
     return resolver;
   }
-  
+
+  //配置静态资源的处理
   @Override
   public void configureDefaultServletHandling(DefaultServletHandlerConfigurer configurer) {
     configurer.enable();

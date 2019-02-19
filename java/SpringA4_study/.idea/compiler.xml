@@ -11,7 +11,6 @@
         <module name="externals" />
         <module name="profiles" />
         <module name="scopedbeans" />
-        <module name="Spittr" />
         <module name="stereo-autoconfig" />
         <module name="stereo-javaconfig" />
         <module name="stereo-mixedconfig" />
@@ -26,6 +25,10 @@
       <module name="profiles" target="6" />
       <module name="scopedbeans" target="1.5" />
       <module name="Spittr" target="1.5" />
+      <module name="Spittr-JSP.main" target="1.8" />
+      <module name="Spittr-JSP.test" target="1.8" />
+      <module name="Spittr.main" target="1.8" />
+      <module name="Spittr.test" target="1.8" />
       <module name="stereo-autoconfig" target="1.5" />
       <module name="stereo-javaconfig" target="1.5" />
       <module name="stereo-mixedconfig" target="1.5" />

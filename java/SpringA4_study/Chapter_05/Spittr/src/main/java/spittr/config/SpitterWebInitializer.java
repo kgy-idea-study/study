@@ -13,12 +13,12 @@ public class SpitterWebInitializer extends AbstractAnnotationConfigDispatcherSer
 
   @Override
   protected Class<?>[] getServletConfigClasses() {
-    return new Class<?>[] { WebConfig.class };
+    return new Class<?>[] { WebConfig.class };//指定配置类
   }
 
   @Override
   protected String[] getServletMappings() {
-    return new String[] { "/" };
+    return new String[] { "/" };//将dispatcherServlet映射到 “/”
   }
 
 }
