@@ -7,7 +7,8 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller//声明为一个控制器
-@RequestMapping("/")
+//@RequestMapping("/")
+@RequestMapping({"/","/homepage"})
 public class HomeController {
 
   @RequestMapping(method = GET)

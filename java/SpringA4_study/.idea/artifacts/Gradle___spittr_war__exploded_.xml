@@ -1,20 +1,20 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="Gradle : spittr.war (exploded)">
-    <output-path>$PROJECT_DIR$/Chapter_05/Spittr/build/libs/exploded/spittr.war</output-path>
+    <output-path>$PROJECT_DIR$/Chapter_06/jsp/build/libs/exploded/spittr.war</output-path>
     <properties id="gradle-properties">
-      <options external-project-path="$PROJECT_DIR$/Chapter_05/Spittr">
+      <options external-project-path="$PROJECT_DIR$/Chapter_06/jsp">
         <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQoNCg==</manifest>
       </options>
     </properties>
     <root id="root">
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/Chapter_05/Spittr/build/libs/exploded/spittr.war/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/Chapter_06/jsp/build/libs/exploded/spittr.war/META-INF/MANIFEST.MF" />
       </element>
-      <element id="javaee-facet-resources" facet="Spittr.main/web/Web Gradle : spittr.war" />
+      <element id="javaee-facet-resources" facet="Spittr-JSP.main/web/Web Gradle : spittr.war" />
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="Spittr.main" />
-          <element id="dir-copy" path="$PROJECT_DIR$/Chapter_05/Spittr/out/production/resources" />
+          <element id="module-output" name="Spittr-JSP.main" />
+          <element id="dir-copy" path="$PROJECT_DIR$/Chapter_06/jsp/out/production/resources" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Gradle: org.springframework:spring-webmvc:4.0.7.RELEASE" />

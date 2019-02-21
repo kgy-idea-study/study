@@ -32,9 +32,10 @@ public class SpitterController {
   
   @RequestMapping(value="/register", method=POST)
   public String processRegistration(
-      @Valid Spitter spitter, 
-      Errors errors) {
-    if (errors.hasErrors()) {
+      @Valid Spitter spitter,//校验Spitter输入
+      Errors errors) {//很重要一点需要注意，
+    // Errors参数要紧跟在带有@Valid注解的参数后面，@Valid注解所标注的就是要检验的参数
+    if (errors.hasErrors()) {//如果校验出现错误，则重新返回表单
       return "registerForm";
     }
     
