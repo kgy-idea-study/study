@@ -27,6 +27,8 @@
       <module name="Spittr" target="1.5" />
       <module name="Spittr-JSP.main" target="1.8" />
       <module name="Spittr-JSP.test" target="1.8" />
+      <module name="Spittr-Multipart.main" target="1.8" />
+      <module name="Spittr-Multipart.test" target="1.8" />
       <module name="Spittr.main" target="1.8" />
       <module name="Spittr.test" target="1.8" />
       <module name="stereo-autoconfig" target="1.5" />
