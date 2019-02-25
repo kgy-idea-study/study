@@ -10,6 +10,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Spittr-Multipart.iml" filepath="$PROJECT_DIR$/.idea/modules/Spittr-Multipart.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Spittr-Multipart.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Spittr-Multipart.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Spittr-Multipart.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Spittr-Multipart.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Spittr-Thymeleaf.iml" filepath="$PROJECT_DIR$/.idea/modules/Spittr-Thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Spittr-Thymeleaf.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Spittr-Thymeleaf.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Spittr-Thymeleaf.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Spittr-Thymeleaf.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Spittr.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Spittr.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Spittr.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Spittr.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter_04/aop/aop.iml" filepath="$PROJECT_DIR$/Chapter_04/aop/aop.iml" />

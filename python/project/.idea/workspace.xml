@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="253423e9-97b9-4747-bbd6-9e8e5c0770ea" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../java/AGoodLittleProgram/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/AGoodLittleProgram/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java/AGoodLittleProgram/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/AGoodLittleProgram/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/SpringA4_study/.idea/artifacts/Gradle___spittr_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/SpringA4_study/.idea/artifacts/Gradle___spittr_war.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/SpringA4_study/.idea/artifacts/Gradle___spittr_war__exploded_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/SpringA4_study/.idea/artifacts/Gradle___spittr_war__exploded_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/SpringA4_study/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/SpringA4_study/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/SpringA4_study/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/SpringA4_study/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/SpringA4_study/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/SpringA4_study/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/SpringA4_study/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/SpringA4_study/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_base/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python_base/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_base/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python_base/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +95,7 @@
         <entry file="file://$PROJECT_DIR$/irmsReport/blackControl/blackControl_ds.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="462">
-              <caret line="22" column="47" lean-forward="true" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+              <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -100,7 +104,7 @@
         <entry file="file://$PROJECT_DIR$/irmsReport/blackControl/blackControl_wg.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -109,7 +113,7 @@
         <entry file="file://$PROJECT_DIR$/irmsReport/blackControl/blackControl_cell.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="231">
-              <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -118,7 +122,7 @@
         <entry file="file://$PROJECT_DIR$/irmsReport/blackControl/blackControl_ds2.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="231">
-              <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -127,7 +131,7 @@
         <entry file="file://$PROJECT_DIR$/irmsReport/blackControl/blackControl_ds3.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="84">
-              <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -163,7 +167,7 @@
         <entry file="file://$PROJECT_DIR$/irmsReport/blackControl/blackControl.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="231">
-              <caret line="11" column="124" selection-start-line="11" selection-start-column="124" selection-end-line="11" selection-end-column="124" />
+              <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -254,10 +258,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1358" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1296" />
-    <option name="height" value="1000" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -265,44 +269,19 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="irmsReport" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="irmsReport" type="462c0819:PsiDirectoryNode" />
-              <item name="blackControl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="irmsReport" type="462c0819:PsiDirectoryNode" />
-              <item name="reportUtil" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project1" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project1" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="project1_zhengshi" type="462c0819:PsiDirectoryNode" />
+              <item name="awesome-python3-webapp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -587,16 +566,17 @@
       <workItem from="1550107536032" duration="6911000" />
       <workItem from="1550114467314" duration="3140000" />
       <workItem from="1550120153353" duration="11241000" />
+      <workItem from="1551078035633" duration="557000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99955000" />
+    <option name="totallyTimeSpent" value="100512000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-8" width="1296" height="1000" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15951417" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3671461" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -831,13 +811,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/irmsReport/reportUtil/out1.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/irmsReport/reportUtil/out1.xml" />
     <entry file="file://$PROJECT_DIR$/project1/com/project1_zhengshi/rules.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
@@ -859,11 +833,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/irmsReport/reportUtil/hehe.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-63" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/irmsReport/reportUtil/hehe.xml" />
     <entry file="file://F:/Python/Lib/xml/etree/ElementTree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
@@ -881,17 +851,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/irmsReport/blackControl/hehe.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
-          <folding>
-            <element signature="e#148#152#0" expanded="true" />
-            <element signature="e#167#171#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/irmsReport/blackControl/hehe.xml" />
     <entry file="file://$PROJECT_DIR$/irmsReport/blackControl/blackControl_szw.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -923,38 +883,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/irmsReport/blackControl/blackControl_gr.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/irmsReport/blackControl/blackControl_ds.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
-          <caret line="22" column="47" lean-forward="true" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+          <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/irmsReport/blackControl/blackControl_wg.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/irmsReport/blackControl/blackControl_ds2.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/irmsReport/blackControl/blackControl_cell.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
-          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/irmsReport/blackControl/blackControl_ds2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/irmsReport/blackControl/blackControl_ds3.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
-          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -972,13 +939,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/irmsReport/blackControl/blackControl_gr.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/irmsReport/blackControl/blackControl_szw4.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
@@ -989,7 +949,7 @@
     <entry file="file://$PROJECT_DIR$/irmsReport/blackControl/blackControl.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
-          <caret line="11" column="124" selection-start-line="11" selection-start-column="124" selection-end-line="11" selection-end-column="124" />
+          <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
         </state>
       </provider>
     </entry>
