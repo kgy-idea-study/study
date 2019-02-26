@@ -22,6 +22,8 @@
       <module name="Chapter_01" target="1.5" />
       <module name="conditional" target="1.5" />
       <module name="externals" target="1.5" />
+      <module name="jdbc.main" target="1.8" />
+      <module name="jdbc.test" target="1.8" />
       <module name="profiles" target="6" />
       <module name="scopedbeans" target="1.5" />
       <module name="Spittr" target="1.5" />

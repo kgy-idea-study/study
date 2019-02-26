@@ -1,20 +1,20 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="Gradle : spittr.war (exploded)">
-    <output-path>$PROJECT_DIR$/Chapter_09/thymeleaf/build/libs/exploded/spittr.war</output-path>
+    <output-path>$PROJECT_DIR$/Chapter_07/Spittr/build/libs/exploded/spittr.war</output-path>
     <properties id="gradle-properties">
-      <options external-project-path="$PROJECT_DIR$/Chapter_09/thymeleaf">
+      <options external-project-path="$PROJECT_DIR$/Chapter_07/Spittr">
         <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQoNCg==</manifest>
       </options>
     </properties>
     <root id="root">
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/Chapter_09/thymeleaf/build/libs/exploded/spittr.war/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/Chapter_07/Spittr/build/libs/exploded/spittr.war/META-INF/MANIFEST.MF" />
       </element>
-      <element id="javaee-facet-resources" facet="Spittr-Thymeleaf.main/web/Web Gradle : spittr.war" />
+      <element id="javaee-facet-resources" facet="Spittr-Multipart.main/web/Web Gradle : spittr.war" />
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="Spittr-Thymeleaf.main" />
-          <element id="dir-copy" path="$PROJECT_DIR$/Chapter_09/thymeleaf/out/production/resources" />
+          <element id="module-output" name="Spittr-Multipart.main" />
+          <element id="dir-copy" path="$PROJECT_DIR$/Chapter_07/Spittr/out/production/resources" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Gradle: org.springframework:spring-webmvc:4.0.7.RELEASE" />
@@ -22,31 +22,26 @@
           <element id="library" level="project" name="Gradle: com.h2database:h2:1.4.182" />
           <element id="library" level="project" name="Gradle: org.hibernate:hibernate-validator:5.0.1.Final" />
           <element id="library" level="project" name="Gradle: org.apache.commons:commons-lang3:3.1" />
-          <element id="library" level="project" name="Gradle: org.springframework:spring-beans:4.0.7.RELEASE" />
-          <element id="library" level="project" name="Gradle: org.springframework:spring-context:4.0.7.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.thymeleaf:thymeleaf-spring3:2.1.3.RELEASE" />
+          <element id="library" level="project" name="Gradle: commons-fileupload:commons-fileupload:1.3" />
           <element id="library" level="project" name="Gradle: org.springframework:spring-web:4.0.7.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-context:4.0.7.RELEASE" />
           <element id="library" level="project" name="Gradle: org.springframework:spring-tx:4.0.7.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-aop:4.0.7.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-beans:4.0.7.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-expression:4.0.7.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-core:4.0.7.RELEASE" />
           <element id="library" level="project" name="Gradle: javax.validation:validation-api:1.1.0.Final" />
           <element id="library" level="project" name="Gradle: org.jboss.logging:jboss-logging:3.1.1.GA" />
           <element id="library" level="project" name="Gradle: com.fasterxml:classmate:0.8.0" />
           <element id="library" level="project" name="Gradle: org.thymeleaf:thymeleaf:2.1.3.RELEASE" />
-          <element id="library" level="project" name="Gradle: org.springframework:spring-core:4.0.7.RELEASE" />
-          <element id="library" level="project" name="Gradle: org.springframework:spring-aop:4.0.7.RELEASE" />
-          <element id="library" level="project" name="Gradle: org.springframework:spring-expression:4.0.7.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.slf4j:slf4j-api:1.6.1" />
+          <element id="library" level="project" name="Gradle: commons-io:commons-io:2.2" />
+          <element id="library" level="project" name="Gradle: commons-logging:commons-logging:1.1.3" />
           <element id="library" level="project" name="Gradle: ognl:ognl:3.0.6" />
           <element id="library" level="project" name="Gradle: org.javassist:javassist:3.16.1-GA" />
           <element id="library" level="project" name="Gradle: org.unbescape:unbescape:1.0" />
-          <element id="library" level="project" name="Gradle: commons-logging:commons-logging:1.1.3" />
           <element id="library" level="project" name="Gradle: aopalliance:aopalliance:1.0" />
-          <element id="file-copy" path="E:/gradle_user_home/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/3.2.0.RELEASE/9f10bd410bdda6140d7aa38cc9c115cb9f797626/spring-security-config-3.2.0.RELEASE.jar" />
-          <element id="file-copy" path="E:/gradle_user_home/caches/modules-2/files-2.1/org.springframework.security/spring-security-web/3.2.0.RELEASE/f5f2fbfb3a59b1371ca9dda348d8eee22f99a19f/spring-security-web-3.2.0.RELEASE.jar" />
-          <element id="file-copy" path="E:/gradle_user_home/caches/modules-2/files-2.1/org.thymeleaf/thymeleaf-spring4/2.1.3.RELEASE/245c44aa3f2735f6f8346bbd5028a20652215dbf/thymeleaf-spring4-2.1.3.RELEASE.jar" />
-          <element id="file-copy" path="E:/gradle_user_home/caches/modules-2/files-2.1/org.thymeleaf.extras/thymeleaf-extras-springsecurity3/2.1.1.RELEASE/da0d116c514849d3cbe650f2d124767eb19783b9/thymeleaf-extras-springsecurity3-2.1.1.RELEASE.jar" />
-          <element id="file-copy" path="E:/gradle_user_home/caches/modules-2/files-2.1/org.springframework.ldap/spring-ldap-core/2.0.1.RELEASE/17bcf48f113e1ac45e389984965e0ac605276d6a/spring-ldap-core-2.0.1.RELEASE.jar" />
-          <element id="file-copy" path="E:/gradle_user_home/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/3.2.0.RELEASE/e8e32b6a64b82c054b74d8ef4715cd0ca00cd1c/spring-security-core-3.2.0.RELEASE.jar" />
-          <element id="file-copy" path="E:/gradle_user_home/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/1.6.1.RELEASE/772e2daa59003ae968c5738077b3966e16fff02d/spring-data-commons-1.6.1.RELEASE.jar" />
-          <element id="file-copy" path="E:/gradle_user_home/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.1/a11c000cf26e42ba30b7fb5bd60630a57783fe2d/jcl-over-slf4j-1.7.1.jar" />
-          <element id="file-copy" path="E:/gradle_user_home/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.1/1a508b0ecd360507a39a4dbaedd1aa4750741f6d/slf4j-api-1.7.1.jar" />
         </element>
       </element>
     </root>

@@ -18,6 +18,9 @@
       <module fileurl="file://$PROJECT_DIR$/Chapter_04/aop/aop.iml" filepath="$PROJECT_DIR$/Chapter_04/aop/aop.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter_03/conditional/conditional.iml" filepath="$PROJECT_DIR$/Chapter_03/conditional/conditional.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter_03/externals/externals.iml" filepath="$PROJECT_DIR$/Chapter_03/externals/externals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jdbc.iml" filepath="$PROJECT_DIR$/.idea/modules/jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jdbc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/jdbc.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jdbc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/jdbc.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter_03/profiles/profiles.iml" filepath="$PROJECT_DIR$/Chapter_03/profiles/profiles.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter_03/scopedbeans/scopedbeans.iml" filepath="$PROJECT_DIR$/Chapter_03/scopedbeans/scopedbeans.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter_02/stereo-autoconfig/stereo-autoconfig.iml" filepath="$PROJECT_DIR$/Chapter_02/stereo-autoconfig/stereo-autoconfig.iml" />
