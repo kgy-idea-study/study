@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="caching" external.linked.project.path="$MODULE_DIR$/../../Chapter_13/caching" external.root.project.path="$MODULE_DIR$/../../Chapter_13/caching" external.system.id="GRADLE" external.system.module.group="" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../Chapter_13/caching">
+      <excludeFolder url="file://$MODULE_DIR$/../../Chapter_13/caching/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Chapter_13/caching/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Chapter_13/caching/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

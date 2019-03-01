@@ -19,6 +19,8 @@
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="aop" target="1.5" />
+      <module name="caching.main" target="1.8" />
+      <module name="caching.test" target="1.8" />
       <module name="Chapter_01" target="1.5" />
       <module name="conditional" target="1.5" />
       <module name="externals" target="1.5" />
