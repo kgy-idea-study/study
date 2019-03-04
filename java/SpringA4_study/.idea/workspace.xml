@@ -6,14 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26aab99f-2c2a-4254-9932-9fb1d3581b0f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/jdbc.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/jdbc.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/jdbc.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/jdbc.test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="26aab99f-2c2a-4254-9932-9fb1d3581b0f" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/Chapter_01/target/" />
     <ignored path="$PROJECT_DIR$/Chapter_02/test/target/" />
     <ignored path="$PROJECT_DIR$/Chapter_02/stereo-autoconfig/target/" />
@@ -121,44 +114,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter_13/caching/src/test/java/spittr/db/jdbc/JdbcSpitterRepositoryTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="68" column="5" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chapter_09/thymeleaf/src/main/java/spittr/config/SecurityConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-223">
-              <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+            <state relative-caret-position="97">
+              <caret line="37" column="2" lean-forward="true" selection-start-line="37" selection-start-column="2" selection-end-line="37" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter_09/thymeleaf/src/main/java/spittr/config/SecurityWebInitializer.java">
+        <entry file="jar://E:/gradle_user_home/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/3.2.0.RELEASE/72aa563f554d83cf191d7e6a778fbfb5358465e/spring-security-config-3.2.0.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            <state relative-caret-position="149">
+              <caret line="57" column="22" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter_09/thymeleaf/src/main/java/spittr/config/SpitterWebInitializer.java">
+        <entry file="jar://E:/gradle_user_home/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/3.2.0.RELEASE/72aa563f554d83cf191d7e6a778fbfb5358465e/spring-security-config-3.2.0.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/WebSecurityConfigurer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="231">
-              <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -166,7 +144,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter_09/thymeleaf/src/main/java/spittr/web/SpittleForm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
+            <state relative-caret-position="105">
               <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
@@ -184,7 +162,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter_09/thymeleaf/src/main/java/spittr/data/JdbcSpitterRepository.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-517">
+            <state relative-caret-position="105">
               <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
             </state>
           </provider>
@@ -193,17 +171,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter_09/thymeleaf/src/main/java/spittr/web/SpitterController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-83">
+            <state relative-caret-position="546">
               <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter_09/thymeleaf/src/main/java/spittr/web/SpittleController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="694">
-              <caret line="47" column="50" lean-forward="true" selection-start-line="47" selection-start-column="50" selection-end-line="47" selection-end-column="50" />
+            <state relative-caret-position="-20">
+              <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -347,6 +325,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SpringA4_study" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Chapter_01" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -391,36 +380,7 @@
             </path>
             <path>
               <item name="SpringA4_study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="thymeleaf" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="spittr" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringA4_study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="thymeleaf" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="spittr" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringA4_study" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="SpringA4_study" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Chapter_01" type="616d4139:PackageViewModuleNode" />
             </path>
           </expand>
           <select />
@@ -801,6 +761,7 @@
       <workItem from="1551169135088" duration="3991000" />
       <workItem from="1551228268662" duration="6454000" />
       <workItem from="1551420278787" duration="2785000" />
+      <workItem from="1551660649512" duration="2252000" />
     </task>
     <servers />
   </component>
@@ -837,7 +798,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="204754000" />
+    <option name="totallyTimeSpent" value="207006000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -852,7 +813,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" x="445" y="58" width="476" height="612" id="Project" order="0" sideWeight="0.49339935" visible="true" weight="0.1860817" />
+      <window_info active="true" content_ui="combo" x="445" y="58" width="476" height="612" id="Project" order="0" sideWeight="0.49339935" visible="true" weight="0.31240544" />
       <window_info id="Designer" order="1" />
       <window_info id="Image Layers" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -873,7 +834,7 @@
       <window_info anchor="bottom" id="FindBugs-IDEA" order="8" weight="0.32843137" />
       <window_info anchor="bottom" id="Spring" order="9" weight="0.41339868" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32843137" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5008091" side_tool="true" weight="0.26732674" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5008091" side_tool="true" weight="0.26712328" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4975728" weight="0.3250825" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="14" weight="0.3290993" />
@@ -985,27 +946,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter_07/Spittr/src/main/java/spittr/web/AppWideExceptionHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_07/Spittr/src/main/java/spittr/web/DuplicateSpittleException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_09/thymeleaf/src/main/java/spittr/config/RootConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_09/thymeleaf/src/main/java/spittr/config/MethodSecurityConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -1039,13 +979,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/gradle_user_home/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/3.2.0.RELEASE/72aa563f554d83cf191d7e6a778fbfb5358465e/spring-security-config-3.2.0.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1187">
-          <caret line="73" column="53" lean-forward="true" selection-start-line="73" selection-start-column="53" selection-end-line="73" selection-end-column="53" />
         </state>
       </provider>
     </entry>
@@ -1269,27 +1202,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_13/caching/src/main/java/spittr/config/CachingConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_13/caching/src/test/java/spittr/db/jdbc/JdbcSpitterRepositoryTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
+        <state relative-caret-position="1134">
           <caret line="68" column="5" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_09/thymeleaf/src/main/java/spittr/config/SecurityConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-223">
-          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -1312,7 +1231,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_09/thymeleaf/src/main/java/spittr/web/SpittleForm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
+        <state relative-caret-position="105">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
@@ -1326,22 +1245,62 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_09/thymeleaf/src/main/java/spittr/data/JdbcSpitterRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-517">
+        <state relative-caret-position="105">
           <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_09/thymeleaf/src/main/java/spittr/web/SpitterController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-83">
+        <state relative-caret-position="546">
           <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_13/caching/src/main/java/spittr/config/CachingConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_09/thymeleaf/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_09/thymeleaf/src/main/java/spittr/web/SpittleController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="694">
-          <caret line="47" column="50" lean-forward="true" selection-start-line="47" selection-start-column="50" selection-end-line="47" selection-end-column="50" />
+        <state relative-caret-position="-20">
+          <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/gradle_user_home/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/3.2.0.RELEASE/72aa563f554d83cf191d7e6a778fbfb5358465e/spring-security-config-3.2.0.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/WebSecurityConfigurer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/gradle_user_home/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/3.2.0.RELEASE/72aa563f554d83cf191d7e6a778fbfb5358465e/spring-security-config-3.2.0.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/builders/HttpSecurity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2405">
+          <caret line="190" column="48" lean-forward="true" selection-start-line="190" selection-start-column="48" selection-end-line="190" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/gradle_user_home/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/3.2.0.RELEASE/72aa563f554d83cf191d7e6a778fbfb5358465e/spring-security-config-3.2.0.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="57" column="22" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_09/thymeleaf/src/main/java/spittr/config/SecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="37" column="2" lean-forward="true" selection-start-line="37" selection-start-column="2" selection-end-line="37" selection-end-column="2" />
         </state>
       </provider>
     </entry>
