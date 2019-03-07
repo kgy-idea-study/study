@@ -70,6 +70,28 @@
         </option>
         <option name="useQualifiedModuleNames" value="true" />
       </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Chapter_16/spitter-api-content-negotiation" />
+        <option name="gradleHome" value="F:/gradle-4.6" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Chapter_16/spitter-api-content-negotiation" />
+          </set>
+        </option>
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Chapter_16/spitter-api-message-converters" />
+        <option name="gradleHome" value="F:/gradle-4.6" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Chapter_16/spitter-api-message-converters" />
+          </set>
+        </option>
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
     </option>
   </component>
 </project>

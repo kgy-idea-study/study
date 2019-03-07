@@ -28,7 +28,11 @@
       <module name="jdbc.test" target="1.8" />
       <module name="profiles" target="6" />
       <module name="scopedbeans" target="1.5" />
+      <module name="spitter-api-message-converters.spittr-api.main" target="1.8" />
+      <module name="spitter-api-message-converters.spittr-api.test" target="1.8" />
       <module name="Spittr" target="1.5" />
+      <module name="spittr-api.main" target="1.8" />
+      <module name="spittr-api.test" target="1.8" />
       <module name="Spittr-JSP.main" target="1.8" />
       <module name="Spittr-JSP.test" target="1.8" />
       <module name="Spittr-Multipart.main" target="1.8" />
