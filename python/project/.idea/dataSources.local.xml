@@ -11,5 +11,9 @@
       <user-name>scott</user-name>
       <introspection-schemas>*:@,PUBLIC</introspection-schemas>
     </data-source>
+    <data-source name="test" uuid="96e2595e-3210-4f4a-b3b9-77c8d137404b">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="SQLITE" exact-version="0" />
+      <auth-required>false</auth-required>
+    </data-source>
   </component>
 </project>
