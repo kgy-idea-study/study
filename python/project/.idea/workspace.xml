@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="253423e9-97b9-4747-bbd6-9e8e5c0770ea" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/irmsReport/irmsReport.iml" beforeDir="false" afterPath="$PROJECT_DIR$/irmsReport/irmsReport.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/leetcode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lianxi/lianxi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lianxi/lianxi.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project1/project1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/project1/project1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_spider/web_spider.iml" beforeDir="false" afterPath="$PROJECT_DIR$/web_spider/web_spider.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/awesome-python3-webapp/study/数据类型.py" beforeDir="false" afterPath="$PROJECT_DIR$/awesome-python3-webapp/study/数据类型.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -124,8 +119,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/awesome-python3-webapp/study/数据类型.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="76" column="16" lean-forward="true" selection-start-line="76" selection-start-column="16" selection-end-line="76" selection-end-column="16" />
+            <state relative-caret-position="180">
+              <caret line="129" column="38" selection-start-line="129" selection-start-column="38" selection-end-line="129" selection-end-column="38" />
+              <folding>
+                <element signature="e#3521#3530#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -246,8 +244,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-132" />
-    <option name="y" value="41" />
+    <option name="x" value="-13" />
+    <option name="y" value="71" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
@@ -257,6 +255,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -300,7 +299,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -623,16 +621,17 @@
       <workItem from="1557471269928" duration="5197000" />
       <workItem from="1557730308593" duration="3759000" />
       <workItem from="1557736829325" duration="1279000" />
+      <workItem from="1558077468288" duration="4227000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="151195000" />
+    <option name="totallyTimeSpent" value="155422000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6405868" visible="true" weight="0.32223904" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6405868" visible="true" weight="0.32753405" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -728,7 +727,7 @@
     <SUITE FILE_PATH="coverage/project$asyncioTest.coverage" NAME="asyncioTest Coverage Results" MODIFIED="1557047261018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/awesome-python3-webapp/study" />
     <SUITE FILE_PATH="coverage/project$aiohttpTest.coverage" NAME="aiohttpTest Coverage Results" MODIFIED="1557048076897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/awesome-python3-webapp/study" />
     <SUITE FILE_PATH="coverage/project$cookie.coverage" NAME="cookie Coverage Results" MODIFIED="1557046826567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_spider/urllib" />
-    <SUITE FILE_PATH="coverage/project$.coverage" NAME="数据类型 Coverage Results" MODIFIED="1557735641998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/awesome-python3-webapp/study" />
+    <SUITE FILE_PATH="coverage/project$.coverage" NAME="数据类型 Coverage Results" MODIFIED="1558080555797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/awesome-python3-webapp/study" />
     <SUITE FILE_PATH="coverage/project$slotsTest.coverage" NAME="slotsTest Coverage Results" MODIFIED="1555988255802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lianxi/lianxi" />
   </component>
   <component name="editorHistoryManager">
@@ -1044,8 +1043,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/awesome-python3-webapp/study/数据类型.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="76" column="16" lean-forward="true" selection-start-line="76" selection-start-column="16" selection-end-line="76" selection-end-column="16" />
+        <state relative-caret-position="180">
+          <caret line="129" column="38" selection-start-line="129" selection-start-column="38" selection-end-line="129" selection-end-column="38" />
+          <folding>
+            <element signature="e#3521#3530#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
