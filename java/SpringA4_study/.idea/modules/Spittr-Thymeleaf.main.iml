@@ -4,16 +4,9 @@
     <facet type="Spring" name="Spring">
       <configuration />
     </facet>
-    <facet type="web" name="Web Gradle : spittr.war">
-      <configuration>
-        <webroots>
-          <root url="file://E:\workspace\IDEA\study\java\SpringA4_study\Chapter_09\thymeleaf\src\main\webapp" relative="/" />
-        </webroots>
-      </configuration>
-    </facet>
   </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
-    <output url="file://$MODULE_DIR$/../../Chapter_09/thymeleaf/out/production/classes" />
+    <output url="file://$MODULE_DIR$/../../Chapter_09/thymeleaf/build/classes/java/main" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../Chapter_09/thymeleaf/src/main">
       <sourceFolder url="file://$MODULE_DIR$/../../Chapter_09/thymeleaf/src/main/java" isTestSource="false" />

@@ -6,7 +6,28 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26aab99f-2c2a-4254-9932-9fb1d3581b0f" name="Default" comment="" />
+    <list default="true" id="26aab99f-2c2a-4254-9932-9fb1d3581b0f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../AGoodLittleProgram/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AGoodLittleProgram/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Gradle___spittr_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/Gradle___spittr_war.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Gradle___spittr_war__exploded_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/Gradle___spittr_war__exploded_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Spittr-Multipart.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Spittr-Multipart.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Spittr-Multipart.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Spittr-Multipart.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Spittr-Thymeleaf.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Spittr-Thymeleaf.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Spittr-Thymeleaf.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Spittr-Thymeleaf.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Spittr.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Spittr.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Spittr.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Spittr.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/caching.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/caching.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/caching.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/caching.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/jdbc.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/jdbc.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/jdbc.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/jdbc.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/spitter-api-message-converters.spittr-api.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/spitter-api-message-converters.spittr-api.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/spitter-api-message-converters.spittr-api.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/spitter-api-message-converters.spittr-api.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/spittr-api.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/spittr-api.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/spittr-api.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/spittr-api.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/project/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/Chapter_01/target/" />
     <ignored path="$PROJECT_DIR$/Chapter_02/test/target/" />
     <ignored path="$PROJECT_DIR$/Chapter_02/stereo-autoconfig/target/" />
@@ -62,6 +83,9 @@
     </option>
     <expand />
     <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$/Chapter_05/Spittr">
@@ -122,64 +146,60 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter_01/src/main/java/sia/knights/DamselRescuingKnight.java">
+        <entry file="file://$PROJECT_DIR$/Chapter_01/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="23">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter_01/src/main/java/sia/knights/Minstrel.java">
+        <entry file="file://$PROJECT_DIR$/Chapter_16/spitter-api-message-converters/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="276">
+              <caret line="12" column="45" lean-forward="true" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter_01/src/main/java/sia/knights/Quest.java">
+        <entry file="file://$PROJECT_DIR$/Chapter_07/Spittr/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            <state relative-caret-position="207">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="66" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter_01/src/main/java/sia/knights/RescueDamselQuest.java">
+        <entry file="file://$PROJECT_DIR$/Chapter_16/spitter-api-content-negotiation/build.gradle">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_03/conditional/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="-514">
+              <caret line="36" column="27" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter_01/src/main/java/sia/knights/SlayDragonQuest.java">
+        <entry file="file://$PROJECT_DIR$/Chapter_06/jsp/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter_06/jsp/src/main/java/spittr/web/SpittleForm.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="207">
+              <caret line="9" column="66" lean-forward="true" selection-start-line="9" selection-start-column="66" selection-end-line="9" selection-end-column="66" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter_06/jsp/src/main/java/spittr/web/SpittleController.java">
+        <entry file="file://$PROJECT_DIR$/Chapter_06/jsp/gradle.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="40" column="61" lean-forward="true" selection-start-line="40" selection-start-column="61" selection-end-line="40" selection-end-column="61" />
+            <state relative-caret-position="46">
+              <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -187,7 +207,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter_03/conditional/src/main/java/com/habuma/restfun/MagicConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
+            <state relative-caret-position="230">
               <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -199,7 +219,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter_03/conditional/src/main/java/com/habuma/restfun/MagicExistsCondition.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
+            <state relative-caret-position="138">
               <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
             </state>
           </provider>
@@ -208,7 +228,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter_03/conditional/src/main/java/com/habuma/restfun/MagicBean.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
+            <state relative-caret-position="46">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
@@ -344,36 +364,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <expand>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="Chapter_01" type="cbb8eebc:String" user="Chapter_01" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="Chapter_01" type="cbb8eebc:String" user="Chapter_01" />
-              <item name="src" type="cbb8eebc:String" user="src" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-        <subPane subId="Tests">
-          <expand>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="Chapter_01" type="cbb8eebc:String" user="Chapter_01" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="Chapter_01" type="cbb8eebc:String" user="Chapter_01" />
-              <item name="src/test" type="cbb8eebc:String" user="src/test" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -475,15 +465,63 @@
             </path>
             <path>
               <item name="SpringA4_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="profiles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringA4_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spitter-api-content-negotiation" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringA4_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spitter-api-message-converters" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringA4_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spittr" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringA4_study" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Chapter_01" type="cbb8eebc:String" user="Chapter_01" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Chapter_01" type="cbb8eebc:String" user="Chapter_01" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <subPane subId="Tests">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Chapter_01" type="cbb8eebc:String" user="Chapter_01" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Chapter_01" type="cbb8eebc:String" user="Chapter_01" />
+              <item name="src/test" type="cbb8eebc:String" user="src/test" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="CatdeaLogs" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/workspace/IDEA/study/java/SpringA4_study/Chapter_04/aop/src/main/java/com/aop/TrackCounter.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -832,6 +870,9 @@
       <workItem from="1551925047371" duration="187000" />
       <workItem from="1552006609427" duration="6722000" />
       <workItem from="1552462600652" duration="4051000" />
+      <workItem from="1566450638007" duration="759000" />
+      <workItem from="1566452923005" duration="1288000" />
+      <workItem from="1566459783422" duration="414000" />
     </task>
     <servers />
   </component>
@@ -868,7 +909,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="234961000" />
+    <option name="totallyTimeSpent" value="237422000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -883,7 +924,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" x="445" y="58" width="476" height="612" id="Project" order="0" sideWeight="0.49339935" visible="true" weight="0.1762481" />
+      <window_info active="true" content_ui="combo" x="445" y="58" width="476" height="612" id="Project" order="0" sideWeight="0.49339935" visible="true" weight="0.2708018" />
       <window_info id="Designer" order="1" />
       <window_info id="Image Layers" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -1016,105 +1057,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter_13/caching/src/main/resources/spittr/cache/ehcache.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_13/caching/src/site/site.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_13/caching/src/test/java/spittr/db/jdbc/JdbcSpitterRepositoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1134">
-          <caret line="68" column="5" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_09/thymeleaf/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-63" />
-      </provider>
-    </entry>
-    <entry file="jar://E:/gradle_user_home/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/3.2.0.RELEASE/72aa563f554d83cf191d7e6a778fbfb5358465e/spring-security-config-3.2.0.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/builders/HttpSecurity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2405">
-          <caret line="190" column="48" lean-forward="true" selection-start-line="190" selection-start-column="48" selection-end-line="190" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/gradle_user_home/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/3.2.0.RELEASE/72aa563f554d83cf191d7e6a778fbfb5358465e/spring-security-config-3.2.0.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/WebSecurityConfigurer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_09/thymeleaf/src/main/java/spittr/web/SpittleForm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_09/thymeleaf/src/main/java/spittr/web/SpitterController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_09/thymeleaf/src/main/java/spittr/web/SpittleController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_13/caching/src/main/java/spittr/config/CachingConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/gradle_user_home/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/3.2.0.RELEASE/72aa563f554d83cf191d7e6a778fbfb5358465e/spring-security-config-3.2.0.RELEASE-sources.jar!/org/springframework/security/config/annotation/AbstractConfiguredSecurityBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="124" column="57" selection-start-line="124" selection-start-column="57" selection-end-line="124" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/gradle_user_home/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/3.2.0.RELEASE/72aa563f554d83cf191d7e6a778fbfb5358465e/spring-security-config-3.2.0.RELEASE-sources.jar!/org/springframework/security/config/annotation/authentication/configurers/provisioning/InMemoryUserDetailsManagerConfigurer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="38" column="11" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/gradle_user_home/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/3.2.0.RELEASE/72aa563f554d83cf191d7e6a778fbfb5358465e/spring-security-config-3.2.0.RELEASE-sources.jar!/org/springframework/security/config/annotation/authentication/configurers/userdetails/UserDetailsAwareConfigurer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/gradle_user_home/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/3.2.0.RELEASE/72aa563f554d83cf191d7e6a778fbfb5358465e/spring-security-config-3.2.0.RELEASE-sources.jar!/org/springframework/security/config/annotation/authentication/configurers/provisioning/UserDetailsManagerConfigurer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31">
-          <caret line="154" column="45" lean-forward="true" selection-start-line="154" selection-start-column="45" selection-end-line="154" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://E:/gradle_user_home/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/3.2.0.RELEASE/72aa563f554d83cf191d7e6a778fbfb5358465e/spring-security-config-3.2.0.RELEASE-sources.jar!/org/springframework/security/config/annotation/authentication/builders/AuthenticationManagerBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3108">
@@ -1295,13 +1237,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_01/src/main/java/sia/knights/BraveKnight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_01/src/main/java/sia/knights/Knight.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
@@ -1319,51 +1254,124 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_01/src/main/java/sia/knights/Minstrel.java">
+    <entry file="file://$PROJECT_DIR$/Chapter_01/src/main/java/sia/knights/DamselRescuingKnight.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_01/src/main/java/sia/knights/DamselRescuingKnight.java">
+    <entry file="file://$PROJECT_DIR$/Chapter_01/src/main/java/sia/knights/Minstrel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="92">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_01/src/main/java/sia/knights/Quest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
+        <state relative-caret-position="46">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_01/src/main/java/sia/knights/RescueDamselQuest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
+        <state relative-caret-position="46">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_03/conditional/src/main/java/com/habuma/restfun/MagicBean.java">
+    <entry file="file://$PROJECT_DIR$/Chapter_01/src/main/java/sia/knights/SlayDragonQuest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="184">
+          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_03/conditional/src/main/java/com/habuma/restfun/MagicExistsCondition.java">
+    <entry file="file://$PROJECT_DIR$/Chapter_06/jsp/src/main/java/spittr/web/SpittleForm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        <state relative-caret-position="115">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_06/jsp/src/main/java/spittr/web/SpittleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="40" column="61" selection-start-line="40" selection-start-column="61" selection-end-line="40" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_01/src/main/java/sia/knights/BraveKnight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding>
+            <element signature="method#embarkOnQuest#0;class#BraveKnight#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_01/src/test/java/sia/knights/BraveKnightTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+          <folding>
+            <element signature="method#knightShouldEmbarkOnQuest#0;class#BraveKnightTest#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_01/src/test/java/sia/knights/KnightConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+          <folding>
+            <element signature="method#knight#0;class#KnightConfig#0" expanded="true" />
+            <element signature="method#quest#0;class#KnightConfig#0" expanded="true" />
+            <element signature="method#stream#0;class#KnightConfig#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_01/src/test/java/sia/knights/KnightJavaConfigInjectionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="method#clearPrintStream#0;class#KnightJavaConfigInjectionTest#0" expanded="true" />
+            <element signature="method#shouldInjectKnightWithSlayDragonQuest#0;class#KnightJavaConfigInjectionTest#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_01/src/test/java/sia/knights/KnightXMLInjectionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+          <folding>
+            <element signature="method#shouldInjectKnightWithSlayDragonQuest#0;class#KnightXMLInjectionTest#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_01/src/main/resources/META-INF/spring/knight.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_01/src/main/resources/META-INF/spring/minstrel.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_01/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_03/conditional/src/main/java/com/habuma/restfun/MagicConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
+        <state relative-caret-position="230">
           <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1371,24 +1379,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_01/src/main/java/sia/knights/SlayDragonQuest.java">
+    <entry file="file://$PROJECT_DIR$/Chapter_03/conditional/src/main/java/com/habuma/restfun/MagicExistsCondition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+        <state relative-caret-position="138">
+          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_06/jsp/src/main/java/spittr/web/SpittleForm.java">
+    <entry file="file://$PROJECT_DIR$/Chapter_03/conditional/src/main/java/com/habuma/restfun/MagicBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_06/jsp/src/main/java/spittr/web/SpittleController.java">
+    <entry file="file://$PROJECT_DIR$/Chapter_01/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="40" column="61" lean-forward="true" selection-start-line="40" selection-start-column="61" selection-end-line="40" selection-end-column="61" />
+        <state relative-caret-position="23">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_16/spitter-api-message-converters/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="45" lean-forward="true" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_07/Spittr/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_16/spitter-api-content-negotiation/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_03/conditional/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-514">
+          <caret line="36" column="27" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_06/jsp/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="66" lean-forward="true" selection-start-line="9" selection-start-column="66" selection-end-line="9" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_06/jsp/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="24" />
         </state>
       </provider>
     </entry>
