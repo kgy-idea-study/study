@@ -1,20 +1,22 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="Gradle : spittr.war (exploded)">
-    <output-path>$PROJECT_DIR$/Chapter_16/spitter-api-content-negotiation/build/libs/exploded/spittr.war</output-path>
+    <output-path>$PROJECT_DIR$/Chapter_16/spitter-api-message-converters/build/libs/exploded/spittr.war</output-path>
     <properties id="gradle-properties">
-      <options external-project-path="$PROJECT_DIR$/Chapter_16/spitter-api-content-negotiation">
+      <options external-project-path="$PROJECT_DIR$/Chapter_16/spitter-api-message-converters">
         <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQoNCg==</manifest>
       </options>
     </properties>
     <root id="root">
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/Chapter_16/spitter-api-content-negotiation/build/libs/exploded/spittr.war/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/Chapter_16/spitter-api-message-converters/build/libs/exploded/spittr.war/META-INF/MANIFEST.MF" />
       </element>
       <element id="javaee-facet-resources" facet="spittr-api.main/web/Web Gradle : spittr.war" />
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
           <element id="module-output" name="spittr-api.main" />
-          <element id="dir-copy" path="$PROJECT_DIR$/Chapter_16/spitter-api-content-negotiation/build/resources/main" />
+          <element id="module-output" name="spitter-api-message-converters.spittr-api.main" />
+          <element id="dir-copy" path="$PROJECT_DIR$/Chapter_16/spitter-api-content-negotiation/out/production/resources" />
+          <element id="dir-copy" path="$PROJECT_DIR$/Chapter_16/spitter-api-message-converters/out/production/resources" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Gradle: org.springframework:spring-webmvc:4.0.7.RELEASE" />
@@ -40,6 +42,7 @@
           <element id="library" level="project" name="Gradle: aopalliance:aopalliance:1.0" />
         </element>
       </element>
+      <element id="javaee-facet-resources" facet="spitter-api-message-converters.spittr-api.main/web/Web Gradle : spittr.war" />
     </root>
   </artifact>
 </component>

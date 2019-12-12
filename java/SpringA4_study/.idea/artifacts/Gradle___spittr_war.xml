@@ -1,8 +1,8 @@
 <component name="ArtifactManager">
   <artifact type="war" name="Gradle : spittr.war">
-    <output-path>$PROJECT_DIR$/Chapter_16/spitter-api-content-negotiation/build/libs</output-path>
+    <output-path>$PROJECT_DIR$/Chapter_16/spitter-api-message-converters/build/libs</output-path>
     <properties id="gradle-properties">
-      <options external-project-path="$PROJECT_DIR$/Chapter_16/spitter-api-content-negotiation" />
+      <options external-project-path="$PROJECT_DIR$/Chapter_16/spitter-api-message-converters" />
     </properties>
     <root id="archive" name="spittr.war">
       <element id="artifact" artifact-name="Gradle : spittr.war (exploded)" />

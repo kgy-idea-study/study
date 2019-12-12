@@ -6,7 +6,7 @@
     </facet>
   </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
-    <output-test url="file://$MODULE_DIR$/../../Chapter_16/spitter-api-message-converters/build/classes/java/test" />
+    <output-test url="file://$MODULE_DIR$/../../Chapter_16/spitter-api-message-converters/out/test/classes" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../Chapter_16/spitter-api-message-converters/src/test">
       <sourceFolder url="file://$MODULE_DIR$/../../Chapter_16/spitter-api-message-converters/src/test/resources" type="java-test-resource" />

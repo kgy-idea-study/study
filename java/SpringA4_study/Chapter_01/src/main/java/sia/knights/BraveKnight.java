@@ -12,4 +12,7 @@ public class BraveKnight implements Knight {
     quest.embark();
   }
 
+  public void setA(String a) {
+    System.out.println(111111);
+  }
 }

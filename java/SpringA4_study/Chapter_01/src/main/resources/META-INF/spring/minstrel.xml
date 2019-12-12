@@ -9,6 +9,7 @@
 
   <bean id="knight" class="sia.knights.BraveKnight">
     <constructor-arg ref="quest" />
+    <property name="a" value="11"/>
   </bean>
 
   <bean id="quest" class="sia.knights.SlayDragonQuest">
